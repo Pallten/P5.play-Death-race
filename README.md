@@ -68,5 +68,8 @@ No sound is currently used.
 ---
 
 ## Screenshots
-
+screenshots/Death.race.screenshot1.png
+screenshots/Death.race.screenshot2.png
+screenshots/Death.race.screenshot3.png
+screenshots/Death.race.screenshot4.png
 
