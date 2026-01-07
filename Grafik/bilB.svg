@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BilB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #30489e;
+      }
+
+      .cls-3, .cls-4, .cls-2, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #f7f7f7;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: #4472b8;
+      }
+
+      .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="30.92" y="18.79" width="8.01" height="1.17"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="30.92" y="29.3" width="8.01" height="1.17"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-6" x="11.8" y="11.36" width="3.1" height="7.68" rx=".27" ry=".27" transform="translate(28.54 1.85) rotate(90)"/>
+    <rect class="cls-6" x="33.69" y="11.36" width="3.1" height="7.68" rx=".27" ry=".27" transform="translate(50.43 -20.04) rotate(90)"/>
+    <rect class="cls-6" x="11.8" y="30.61" width="3.1" height="7.68" rx=".27" ry=".27" transform="translate(47.8 21.1) rotate(90)"/>
+    <rect class="cls-6" x="33.69" y="30.61" width="3.1" height="7.68" rx=".27" ry=".27" transform="translate(69.69 -.79) rotate(90)"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-5" d="m6.41,33.59v-17.51c0-1.09.89-1.98,1.98-1.98l10.52.26h9.91s11.34-.56,11.34-.56c.84,0,1.52.69,1.52,1.52v19.13c0,.84-.69,1.52-1.52,1.52l-11.43-.78h-9.81s-10.52.37-10.52.37c-1.09,0-1.98-.89-1.98-1.98Z"/>
+    <g>
+      <g id="_Mirror_Repeat_" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-8">
+          <line class="cls-1" x1="38.91" y1="19.84" x2="30.93" y2="18.91"/>
+        </g>
+      </g>
+      <g id="_Mirror_Repeat_-2" data-name="&amp;lt;Mirror Repeat&amp;gt;">
+        <g class="cls-7">
+          <line class="cls-1" x1="38.91" y1="29.43" x2="30.93" y2="30.35"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <polygon class="cls-4" points="26.03 16.51 29.73 15.66 29.73 33.78 26.03 32.95 26.03 16.51"/>
+    <path class="cls-3" d="m12.92,20.04h17.65c.18,0,.32.14.32.32v7.65c0,.77-.62,1.39-1.39,1.39h-15.38c-.86,0-1.56-.7-1.56-1.56v-7.45c0-.19.16-.35.35-.35Z" transform="translate(46.46 2.99) rotate(90)"/>
+  </g>
+</svg>
