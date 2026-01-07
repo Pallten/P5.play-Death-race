@@ -182,7 +182,7 @@ function blueOilF() {
   }
 
 
-  if (kb.presses("å") && ammoO > 0) {
+  if (kb.presses("p") && ammoO > 0) {
     //console.log("Current value of ammoO:", ammoO);
 
     if (oAmmoO > 0) {
